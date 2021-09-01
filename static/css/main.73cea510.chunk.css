@@ -1,0 +1,2 @@
+.App{text-align:center}.cards{display:flex;flex-wrap:wrap}.cards__card{margin-top:20px;margin-right:20px}.card{display:flex;flex-direction:column;align-items:center;padding:20px 0;width:150px;border:2px solid #000;border-radius:10px}.card--selected{background-color:green}.button{padding:10px 0;width:120px;margin-top:5px;border-radius:10px}.button:hover{cursor:pointer;background-color:grey}.button:disabled{cursor:default;background-color:#fff}
+/*# sourceMappingURL=main.73cea510.chunk.css.map */
